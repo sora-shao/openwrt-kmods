@@ -8,7 +8,7 @@
     "fstools": "2026.02.15~8d377aa6-r1",
     "fwtool": "2025.10.03~04cd252e-r1",
     "ipq-wifi-link_nn6000": "2026.01.28~88514e5a-r1",
-    "kernel": "6.12.74~475b00aecaf183823515937b3561a876-r1",
+    "kernel": "6.12.74~ea63eca8388c3b20e2a7a5d5cbdbc7e1-r1",
     "kmod-3c59x": "6.12.74-r1",
     "kmod-6lowpan": "6.12.74-r1",
     "kmod-8139cp": "6.12.74-r1",
